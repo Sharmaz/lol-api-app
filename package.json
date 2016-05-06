@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.13.4",
+    "nib": "^1.1.0"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "standard": "^7.0.1",
+    "stylus": "^0.54.5"
+  }
+}
